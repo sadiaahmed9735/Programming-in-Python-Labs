@@ -1,4 +1,6 @@
 # Programming-in-Python-Labs
 Name: Sadia Ahmed
-Student ID: 23-55053-3 
-section:B
+
+Student ID: 23-55053-3
+
+Section: B
